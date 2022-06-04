@@ -1,0 +1,16 @@
+{
+  "currency": [
+      {"id": 1, "name": "rub", "salary": "61.97"},
+      {"id": 2, "name": "usd", "salary": "1"},
+      {"id": 3, "name": "cny", "salary": "6.58"},
+      {"id": 4, "name": "eur", "salary": "0.93292"},
+      {"id": 5, "name": "gbp", "salary": "0.80077"},
+      {"id": 6, "name": "jpy", "salary": "130.88"},
+      {"id": 7, "name": "byn", "salary": "2.6"},
+      {"id": 8, "name": "try", "salary": "16.43"},
+      {"id": 9, "name": "chf", "salary": "0.9621"},
+      {"id": 10, "name": "uah", "salary": "29.4"},
+      {"id": 11, "name": "kzt", "salary": "432.55"},
+      {"id": 12, "name": "pln", "salary": "4.28"}
+  ]
+}

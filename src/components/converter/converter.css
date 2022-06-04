@@ -1,0 +1,33 @@
+.Currency_container {
+    width: 850px;
+    height: 85px;
+    margin: 15px auto;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Currency_setting_values {
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+}
+
+.Currency_input {
+  font-size: 25px;
+  color: rgb(112, 76, 182);
+}
+
+.Currency_harr {
+  font-size: 30px;
+  color: rgb(112, 76, 182);
+}
+
+.Currency_harr.add {
+  margin: 15px auto;
+}
+
+.Currency_harr:hover {
+  cursor: pointer;
+}
